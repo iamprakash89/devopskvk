@@ -36,5 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devopskvk&show_icons=true&locale=en" alt="devopskvk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devopskvk&" alt="devopskvk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devopskvk&&theme=tokyonight" alt="devopskvk" /></p>
 
