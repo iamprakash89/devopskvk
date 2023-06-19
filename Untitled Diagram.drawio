@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T12:43:43.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="fwQIDf8yszWlvrJSXSTa" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T13:00:19.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="o159xf6xhaz6N3VlmpB1" version="21.5.0" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1434" dy="782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="SWWJKwSC1oh0T_Rhf9oI-2" value="&lt;b&gt;PUBLIC&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="26" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SWWJKwSC1oh0T_Rhf9oI-4" value="&lt;b&gt;Front End Server&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="SWWJKwSC1oh0T_Rhf9oI-4" value="&lt;div&gt;&lt;b&gt;Front End Server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hello From Front End Server&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="248" y="251" width="278" height="110" as="geometry" />
         </mxCell>
         <UserObject label="opstree.com&#xa;application.opstree.com&#xa;mongo.opstree.com&#xa;mysql.opstree.com&#xa;es.opstree.com&#xa;redis.opstree.com&#xa;kafka.opstree.com&#xa;" id="SWWJKwSC1oh0T_Rhf9oI-5">
@@ -15,13 +15,13 @@
             <mxGeometry x="439" y="110" width="210" height="120" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SWWJKwSC1oh0T_Rhf9oI-6" value="&lt;div&gt;&lt;b&gt;DataBase Server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MySQL&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mongo DB&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="160" y="920" width="120" height="140" as="geometry" />
+        <mxCell id="SWWJKwSC1oh0T_Rhf9oI-6" value="&lt;div&gt;&lt;b&gt;DataBase Server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MySQL&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hello from mysql server&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mongo DB&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hello from mongo server&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="156" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="SWWJKwSC1oh0T_Rhf9oI-7" value="&lt;div&gt;&lt;b&gt;MiddleWare Server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kafka&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Redis&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ES&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="479" y="921" width="131" height="140" as="geometry" />
+        <mxCell id="SWWJKwSC1oh0T_Rhf9oI-7" value="&lt;div&gt;&lt;b&gt;MiddleWare Server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kafka&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hello From kafka server&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Redis&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hello from redis server&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ES&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hello from ES server&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="392" y="921" width="218" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="SWWJKwSC1oh0T_Rhf9oI-8" value="&lt;div&gt;&lt;b&gt;Application Server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mongo DB&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MYSQL&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ES&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;REDIS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;KAFKA&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="SWWJKwSC1oh0T_Rhf9oI-8" value="&lt;div&gt;&lt;b&gt;Application Server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hello from Application server&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mongo DB &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MYSQL&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ES&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;REDIS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;KAFKA&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="300" y="540" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SWWJKwSC1oh0T_Rhf9oI-12" value="8080" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
